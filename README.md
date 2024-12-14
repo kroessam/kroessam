@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kroessam
-- 🌱 I am a graduate of the Software Development program at Spokane Community College, WA
-- 👀 I’m gaining extra experience with React via personal projects
+- 👋 Hi, I’m @kroessam, a Support Engineer for NexGen Technology Services
+- 🌱 I studied Software Development at Spokane Community College, WA
+- 👀 I’m populating my website with useful study tools and games
 
 <!---
 kroessam/kroessam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
